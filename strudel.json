@@ -1,0 +1,16 @@
+{
+  "cello": [
+    "/cello/CelloVerbK05-C1.wav",
+    "/cello/CelloVerbK05-C2.wav",
+    "/cello/CelloVerbK05-C3.wav",
+    "/cello/CelloVerbK05-C4.wav"
+  ],
+  "tromb": [
+    "/tromb/c3.wav",
+    "/tromb/c4.wav"
+  ],
+  "tuvan": [
+    "/tuvan/240915__nemaavla__overtone-singing-sygyt.wav",
+    "/tuvan/64603__falsalama__tibetan-chant-by-falsalama-1.wav"
+  ]
+}
